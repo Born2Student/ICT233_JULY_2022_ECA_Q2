@@ -18,5 +18,5 @@ Objectives:
 
 + Conduct visualization in an appropriate way.
 
-Perform Web Scraping by scraping and analyzing the list of operational Singapore MRT stations from the URL: https://en.wikipedia.org/w/index.php?title=List_of_Singapore_MRT_stations&oldid=1094758210
+**Perform Web Scraping by scraping and analyzing the list of operational Singapore MRT stations from the URL: https://en.wikipedia.org/w/index.php?title=List_of_Singapore_MRT_stations&oldid=1094758210**
 
